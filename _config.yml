@@ -1,7 +1,7 @@
 name: 'System.out.println("Hello, World")'
 favicon: null
-layout_spectrum: 0.00006862240843474865
-typography_spectrum: 0.31232982594519854
+layout_spectrum: 0
+typography_spectrum: 0.06391
 cta:
   domain: null
   bucket: null
